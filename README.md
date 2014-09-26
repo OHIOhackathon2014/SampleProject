@@ -46,4 +46,10 @@ Tell us a bit about your project.
     ![create repo button](https://github.com/OHIOhackathon2014/SampleProject/blob/master/img/create-repo.png)
 
     ![name repo](https://github.com/OHIOhackathon2014/SampleProject/blob/master/img/name-repo.png)
-4. 
+
+4. If you click the "Initialize this repository with a README" button, then it will make the Readme for you!
+5. You should add the licensing information as well. If you know how to do a .gitignore, then add it, otherwise won't bother with it. 
+6. Go ahead and create the repository now. You'll see a page like this.
+    
+    ![the repo](https://github.com/OHIOhackathon2014/SampleProject/blob/master/img/nthe-repo.png)
+
