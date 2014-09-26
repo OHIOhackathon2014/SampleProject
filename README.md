@@ -51,5 +51,9 @@ Tell us a bit about your project.
 5. You should add the licensing information as well. If you know how to do a .gitignore, then add it, otherwise won't bother with it. 
 6. Go ahead and create the repository now. You'll see a page like this.
     
-    ![the repo](https://github.com/OHIOhackathon2014/SampleProject/blob/master/img/nthe-repo.png)
+    ![the repo](https://github.com/OHIOhackathon2014/SampleProject/blob/master/img/the-repo.png)
 
+7. The page will explain what to do next. You need to create the project locally on your computer too. 
+8. Next is simply a combination of `add`, `commit`, and `push` . The GitHub GUI ([windows](https://windows.github.com/), [mac](https://windows.github.com/)) is best for beginners. 
+
+# Get hacking! 
