@@ -27,12 +27,21 @@ Tell us a bit about your project.
     + Major
     + Website
 
+# What's going on? 
+
+First off, welcome to OH**I/O**! This is a bunch of programmers in one place. That's fun, right? Exactly. Basically, you have 36 hours to make some really cool shit. Here, we start from an idea or nothing. No previous code. Get ready, because it's going to be awesome. 
+
 # Rules
 
 - Don't be a jerk
 - You cannot use code you or a teammate has previously written.
-- APIs, Libraries, and Frameworks are okay.
-- 
+- APIs, Libraries, and Frameworks are all okay.
+- Commit to your private repository every 4 hours.
+- *Start* coding at Oct 3, 8:30PM.
+- *Stop* coding at Oct 5, 8:00AM.
+- Really, don't be a jerk.
+- Questions can be asked in person at the help desk or tweeted at *@hackohio*
+
 
 # Using GitHub
 
