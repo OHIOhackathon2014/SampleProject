@@ -27,6 +27,13 @@ Tell us a bit about your project.
     + Major
     + Website
 
+# Rules
+
+- Don't be a jerk
+- You cannot use code you or a teammate has previously written.
+- APIs, Libraries, and Frameworks are okay.
+- 
+
 # Using GitHub
 
 ## Helpful Links
