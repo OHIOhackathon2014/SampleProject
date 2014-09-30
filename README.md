@@ -29,7 +29,7 @@ Tell us a bit about your project.
 
 # What's going on? 
 
-First off, welcome to OH**I/O**! This is a bunch of programmers in one place. That's fun, right? Exactly. Basically, you have 36 hours to make some really cool shit. Here, we start from an idea or nothing. No previous code. Get ready, because it's going to be awesome. 
+First off, welcome to OHI/O! This is a bunch of programmers in one place. That's fun, right? Exactly. Basically, you have 36 hours to make some really cool shit. Here, we start from an idea or nothing. No previous code. Get ready, because it's going to be awesome. 
 
 # Rules
 
