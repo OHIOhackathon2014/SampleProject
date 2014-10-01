@@ -2,7 +2,7 @@ Use this as a guide when creating your own project repo.
 
 # Project Name
 
-Tell us a bit about your project. Go ahead and add your resume to your project repo, it will make it even easier to find. Use the format '<FisrtInitial><LastName>Resume.pdf' 
+Tell us a bit about your project. Go ahead and add your resume to your project repo, it will make it even easier to find. Use the format '\<FisrtInitial\>\<LastName\>Resume.pdf' 
 
 ## Team Members
 
@@ -72,4 +72,4 @@ First off, welcome to OHI/O! This is a bunch of programmers in one place. That's
 7. The page will explain what to do next. You need to create the project locally on your computer too. 
 8. Next is simply a combination of `add`, `commit`, and `push` . The GitHub GUI ([windows](https://windows.github.com/), [mac](https://windows.github.com/)) is best for beginners. 
 
-# Get hacking! 
+# Git hacking! 
