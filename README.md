@@ -2,7 +2,7 @@ Use this as a guide when creating your own project repo.
 
 # Project Name
 
-Tell us a bit about your project.
+Tell us a bit about your project. Go ahead and add your resume to your project repo, it will make it even easier to find. Use the format '<FisrtInitial><LastName>Resume.pdf' 
 
 ## Team Members
 
