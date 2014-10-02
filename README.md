@@ -2,7 +2,7 @@ Use this as a guide when creating your own project repo.
 
 # Project Name
 
-Tell us a bit about your project. Go ahead and add your resume to your project repo, it will make it even easier to find. Use the format '\<FisrtInitial\>\<LastName\>Resume.pdf' 
+Tell us a bit about your project. Go ahead and add your resume to your project repo, it will make it even easier to find. Use the format `\<FisrtInitial\>\<LastName\>Resume.pdf` 
 
 ## Team Members
 
@@ -36,11 +36,24 @@ First off, welcome to OHI/O! This is a bunch of programmers in one place. That's
 - Don't be a jerk
 - You cannot use code you or a teammate has previously written.
 - APIs, Libraries, and Frameworks are all okay.
+- We audit the code, so no plagiarism. We will know. 
 - Commit to your private repository every 4 hours.
 - *Start* coding at Oct 3, 8:30PM.
 - *Stop* coding at Oct 5, 8:00AM.
 - Really, don't be a jerk.
 - Questions can be asked in person at the help desk or tweeted at *@hackohio*
+- Create a `PopularVote.txt` file and add it to the root of your repo. Each team member needs to write the number of the team they want to win. Obviously a vote for your own team will not be counted. 
+- Have fun.
+
+# Judging
+
+- Judging will be conducted in four different rooms.
+- You will be randomly assigned a room.
+- Winners will be chosen from across all rooms.
+- To vote for the popular vote choice award, 
+- Top ten teams will present at the showcase.
+
+-------
 
 
 # Using GitHub
