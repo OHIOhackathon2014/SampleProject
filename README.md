@@ -70,7 +70,7 @@ First off, welcome to OHI/O! This is a bunch of programmers in one place. That's
 
     ![new repo button](https://github.com/OHIOhackathon2014/SampleProject/blob/master/img/new-repo.png)
 
-3. Give your repository a name. Please use the format t##\<shortname\>. An example would be "t03OSUFoLyf". 
+3. Give your repository a name. Just be creative!
 
     ![create repo button](https://github.com/OHIOhackathon2014/SampleProject/blob/master/img/create-repo.png)
 
